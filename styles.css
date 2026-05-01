@@ -1,0 +1,26 @@
+body{
+    font-family: Lucida, Monospace;
+    margin: 0;
+    padding: 0;
+    background-color: #fff9c4;
+}
+h1{
+    font-family: Lucida, Monospace;
+    color: #2c2a2a;
+    text-align: center;
+    margin-top: 50px;
+}
+p {
+    font-family: verdana;
+    font-size: 20px; 
+    color: #2c2a2a;
+    text-align: center;
+    margin: 20px;
+}
+center {
+    font-family: verdana;
+    font-size: 20px; 
+    color: #2c2a2a;
+    text-align: center;
+    margin: 20px;
+}
