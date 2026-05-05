@@ -1,2 +1,3 @@
-import code.py
-print(additon(5, 10))
+import calc.py as calc
+
+print(calc.addition(5, 3))
